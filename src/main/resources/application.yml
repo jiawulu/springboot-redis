@@ -1,0 +1,6 @@
+# 本地或者日常环境配置
+spring:
+  redis:
+    host: 11.239.178.235
+    port: 6379
+    password: wuzhong
